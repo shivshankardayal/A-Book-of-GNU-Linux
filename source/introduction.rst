@@ -63,3 +63,10 @@ Because GNU/Linux does not come as OEM software people who use computer for the
 first time become addict to X much like a drug addict gets addicted to
 drugs. Now X knowing this gives its free(as in free beer) edition to schools
 to trap more and more young minds.
+
+How this book is organized?
+===========================
+First we will try to learn Bash scripting as it opens a whole new door to
+use GNU/Linux in a better way and along that we will learn many useful commands
+in their full glory. Once we have finished Bash scripting then we will learn
+about various server software installation/tuning/security details.
